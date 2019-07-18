@@ -1,0 +1,5 @@
+alpha=input()
+a=alpha.split()
+k=list(a[0])
+c=k.count(a[1])
+print(c)
