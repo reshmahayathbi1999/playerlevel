@@ -1,0 +1,5 @@
+alpha=input()
+a=alpha.split()
+k=list(a[0])
+ind=k.index(a[1])
+print(ind+1)
