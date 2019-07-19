@@ -1,2 +1,2 @@
-meg=input()
-print(int(meg,2))
+mega=input()
+print(int(mega,2))
