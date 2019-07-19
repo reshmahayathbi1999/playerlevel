@@ -1,2 +1,3 @@
 m,n1=map(int,input().split())
-print(m>>n1)
+p=m>>n1
+print(format(p, '.2f'))
