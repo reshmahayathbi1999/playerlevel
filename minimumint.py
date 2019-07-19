@@ -6,4 +6,4 @@ for i in range(1,a1):
             break
     else:
         i=i+1
-print(i)a
+print(i)
