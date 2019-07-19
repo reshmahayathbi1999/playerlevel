@@ -11,5 +11,5 @@ def inCoinspi(coinspi, mo1, V):
     return res
 n,V=list(map(int,input().split()))
 coinspi = list(map(int,input().split())) 
-mo= len(coinspi) 
+mo1= len(coinspi) 
 print(inCoinspi(coinspi, mo1, V)) 
