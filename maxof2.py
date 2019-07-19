@@ -1,0 +1,5 @@
+pil=int(input())
+l1=list(map(int,input().split()))
+y=sorted(l1)
+y.pop(0)
+print(*y)
